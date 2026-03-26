@@ -4,7 +4,7 @@ This is the Final project for Data Driven Strategic Decision Making
 # The Holy Bible — Character Network Analysis
 
 - Exploring Relationships, Influence & Community in Biblical Scripture
-- By- Enosh Paul Niju GH1026595
+- By- *Enosh Paul Niju GH1026595*
 
 My initial motivation for this project was just pure curiosity, the simple question being "Could the Holy Bible be viewed as a social network?"
 
@@ -44,10 +44,10 @@ Only taking six necessary CSV files for the project. This dataset is based on th
 + C. If you removed the most important characters, would the Bible network fall apart?
 + D. Do people from the same tribe actually hang out together?
 
-Tools Used
+## Tools Used
 
-Python / Jupyter Notebook
-NetworkX — graph construction and analysis
-Pandas — data loading and preprocessing
-Plotly — interactive visualizations
-Matplotlib — static plots
+- **Python / Jupyter Notebook**
+- **NetworkX — graph construction and analysis**
+- **Pandas — data loading and preprocessing**
+- **Plotly — interactive visualizations**
+- **Matplotlib — static plots**
