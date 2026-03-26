@@ -17,6 +17,9 @@ This project is entirely focused on data science and network analysis. One of th
 - *Dataset:* BibleData by Brady Stephenson 
 - *Source:* https://www.kaggle.com/datasets/bradystephenson/bibledata
 
+ The network construction and analysis code references. 
+- *NetworkX documentation:* https://networkx.org/documentation/stable/reference/index.html
+
 Only taking six necessary CSV files for the project. This dataset is based on the King James Version Bible (KJV) constituting of 66 books in total. All 6 CSV files are included in the data/ folder of this repo.
 
 ## The Objectives are
