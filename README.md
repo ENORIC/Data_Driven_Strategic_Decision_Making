@@ -30,13 +30,13 @@ Only taking six necessary CSV files for the project. This dataset is based on th
 
 *Table of Contents*
 
-Phase 1 — Network Construction
-Phase 2 — Network Analysis
-Phase 3 — Synthetic Graph Comparison (ER, BA, WS)
-Phase 4 — Best Model Selection
-Phase 5 — Centrality Analysis
-Phase 6 — Diffusion Model (LTM)
-Phase 7 — LTM on the Original Bible Graph
+- Phase 1 — Network Construction
+- Phase 2 — Network Analysis
+- Phase 3 — Synthetic Graph Comparison (ER, BA, WS)
+- Phase 4 — Best Model Selection
+- Phase 5 — Centrality Analysis
+- Phase 6 — Diffusion Model (LTM)
+- Phase 7 — LTM on the Original Bible Graph
 
 - Curosity Based Research Questions A, B, C, D
 + A. Which centrality metric spreads influence the furthest?
