@@ -20,8 +20,10 @@ This project is entirely focused on data science and network analysis. One of th
  The network construction and analysis code references. 
 - *NetworkX documentation:* https://networkx.org/documentation/stable/reference/index.html
 
-Only taking six necessary CSV files for the project. This dataset is based on the King James Version Bible (KJV) constituting of 66 books in total. All 6 CSV files are included in the data/ folder of this repo.
+Only taking six necessary CSV files for the project. This dataset is based on the King James Version Bible (KJV) constituting of 66 books in total. All 6 CSV files are included in the data/ folder of this report.
 
+### **And HTML Version of the same "The_HolyBible_Network_Analyis.ipynb" is also uploaded for easier reading through the pages and the graphs. 
+**
 ## The Objectives are
 
 + Build a co-occurrence network of biblical characters based on shared verse appearances.
